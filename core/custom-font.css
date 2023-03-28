@@ -1,6 +1,6 @@
 :root {
-    --font-primary: var(--customFont) ,"gg sans";
-    --font-display: var(--customFont) ,"gg sans";
+    --font-primary: var(--customFont) ,"SimSun";
+    --font-display: var(--customFont) ,"SimSun";
 }
 ::placeholder, body, button, input, select, textarea{
     font-family: var(--customFont) !important;
